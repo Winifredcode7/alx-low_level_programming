@@ -7,7 +7,6 @@
  * Return: the destination string
  */
 
-
 char *_strcat(char *dest, char *src)
 {
 	int destlen = 0;
